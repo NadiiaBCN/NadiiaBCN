@@ -1,5 +1,6 @@
 # Hi there, I’m Nadiia
-I develop chatbots based on large language models (LLMs). I love turning AI into practical tools that genuinely help businesses.
+I develop chatbots powered by large language models (LLMs) and enjoy turning AI into practical tools that genuinely help businesses. 
+I’m a total nerd and love writing clean, well-structured code with clear explanations 🤓
 
 
 ## My Technology Stack:
